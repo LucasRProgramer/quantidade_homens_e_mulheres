@@ -1,2 +1,0 @@
-# quantidade_homens_e_mulheres
-O programa pergunta ao usuário se a pessoa que ele está entrevistando é homem ou mulher. Para isso, ele dá ao usuário duas opções: Digitar '1' caso a pessoa seja do sexo Masculino, ou digitar '2' caso a pessoa entrevistada seja do sexo Feminino. Esse laço se repete até o usuário colocar o sexo de todas as pessoas. Depois disso o usuário vai digitar '0' para encerrar o programa e o programa irá mostrar a quantidade de pessoas, a quantidade de homens e a quantidade de mulheres entrevistadas. Mostrando também a porcentagem de mulheres e homens. 
